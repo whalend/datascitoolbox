@@ -1,5 +1,5 @@
 datascitoolbox
 ==============
 
-## Data Science Toolbox Coursera Class
+## Data Science Coursera
 ### Introductory
