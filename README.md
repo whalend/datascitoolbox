@@ -1,4 +1,5 @@
 datascitoolbox
 ==============
 
-Directory for Coursera class
+## Data Science Toolbox Coursera Class
+### Introductory
